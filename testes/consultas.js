@@ -2,7 +2,7 @@ const db = require('../config/db')
 
 // db('perfis')
 //   .then(res => res.map(p => p.nome))
-//   .then(nomes => console.log(nomes))
+//   .then(nomes => console.log(nomes))u
 //   .finally(() => db.destroy())
 
 // db('perfis').select('nome', 'id')
