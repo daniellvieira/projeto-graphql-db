@@ -27,3 +27,4 @@ db('perfis')
   .then(res => console.log(res))
   .finally(() => db.destroy())
 
+console.log('fim')
